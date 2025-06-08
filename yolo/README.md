@@ -19,8 +19,11 @@ This project is a real-time person detection and notification system built using
 
 To test the system, you can use the provided sample video:
 
-📹 [Download sample video]([https://drive.google.com/file/d/your-sample-video-id/view?usp=sharing](https://drive.google.com/file/d/11U0zwLPoA09_aJ_B_2SO1FHTbewklnCM/view?usp=sharing))  
-> *(Replace the link with your actual Google Drive share link)*
+
+```
+https://drive.google.com/file/d/your-sample-video-id/view?usp=sharing](https://drive.google.com/file/d/11U0zwLPoA09_aJ_B_2SO1FHTbewklnCM/view?usp=sharing
+```
+
 
 ---
 
