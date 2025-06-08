@@ -7,8 +7,8 @@ import supervision as sv
 import requests
 
 # Telegram bot credentials (replace with your own)
-bot_token = "8174809089:AAHu2knm9QUTRvYDwoItLYXHMeZ4n1WYArI"
-chat_id = "5111346406"
+bot_token = "bot_tokeb_sekret_key"
+chat_id = "secret_ID"
 
 def send_telegram_message(people_detected=1):
     message = f"Alert! {people_detected} person(s) detected in the video feed."
